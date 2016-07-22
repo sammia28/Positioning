@@ -1,0 +1,30 @@
+body{
+	margin:0;
+	padding: 2;
+}
+
+.bloque1 {
+	width: 200px;
+	height: 150px;
+	position: relative;
+	background: #ee3e64;
+}
+.bloque2 {
+	width: 200px;
+	height: 150px;
+	position: relative;
+	background: #b7d84b;
+}
+.bloque3 {
+	width: 200px;
+	height: 150px;
+	position: relative;
+	background: #44accf;
+	left: 200px;
+}
+.bloque4 {
+	width: 200px;
+	height: 150px;
+	position: relative;
+	background: #FFFF00;
+}
